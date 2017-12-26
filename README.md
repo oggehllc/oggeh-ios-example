@@ -11,7 +11,6 @@ Example iOS code for making OGGEH API Requests
 ## IMPORTANT
 
 You should not use Sandbox headers in production mode to avoid blocking your App along with your Developer Account for violating our terms and conditions!
-If you're planning to use this example, remove the `SandBox` header from JavaScript (_assets/js/main.js @line 70_)
 
 ### Usage
 
