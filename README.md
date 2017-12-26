@@ -20,8 +20,6 @@ If you're planning to use this example, remove the `SandBox` header from JavaScr
 3. Straight forward test will be using `SandBox` request.
 4. For production mode, comment out SandBox request code (_@line 37, 39, and 40_), along with setting SandBox custom header @line 65, then uncomment everything between the lines 43 and 54.
 
-```
-
 ## API Documentation
 
 See [API Reference](http://docs.oggeh.com/#reference-section) for additional details on available values for _select_ attribute on each API Method.
