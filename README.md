@@ -10,7 +10,7 @@ Example iOS code for making OGGEH API Requests
 
 ## IMPORTANT
 
-You should not use Sandbox headers in production mode to avoid blocking your App along with your Developer Account for violating our terms and conditions!
+You will not be charged for your apps in development mode. Please do *not* use _Sandbox_ headers in production mode to avoid blocking your App along with your Developer Account for violating our terms and conditions!
 
 ### Usage
 
